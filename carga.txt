@@ -1,0 +1,4 @@
+titulo4;descripcion punto;carrera 6;91;bogota;;
+titulo5;descripcion punto ñ único;juan esteban montero;4550;las condes;4.572922;-74.091737
+titulo6;descripcio rt;;;;4.574172;-74.084829
+
